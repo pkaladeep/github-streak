@@ -1,16 +1,19 @@
 # GitHub Streak Tracker
 
-A fun CLI tool to track your GitHub contribution streak with fire visuals and motivational quotes.
+A CLI tool to track GitHub contribution streaks with **colorful visuals**, **weekly progress**, and **motivational quotes**.
+
+> Built with guidance from **Grok (xAI)** — exploring Python, APIs, and terminal UX.
 
 ## Features
-- Current streak counter
+- Real-time streak calculation from GitHub public contributions
 - Weekly commit progress bar
-- Random dev quote
-- Colorful output
+- Random developer quote
+- Rich terminal output (`rich` library)
 
-## How to Use
-
-1. Open terminal in this folder
-2. Run:
+## Installation
 ```bash
-python streak.py yourusername
+git clone https://github.com/yourusername/github-streak.git
+cd github-streak
+python -m venv venv
+venv\Scripts\activate
+pip install requests rich
