@@ -4,15 +4,17 @@ A CLI tool to track GitHub contribution streaks with **colorful visuals**, **wee
 
 > Built with guidance from **Grok (xAI)** — exploring Python, APIs, and terminal UX.
 
+---
+
 ## Features
-- Real-time streak calculation from GitHub public contributions
+- Real-time streak from GitHub public contributions
 - Weekly commit progress bar
 - Random developer quote
 - Rich terminal output (`rich` library)
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/github-streak.git
+git clone https://github.com/pkaladeep/github-streak.git
 cd github-streak
 python -m venv venv
 venv\Scripts\activate
