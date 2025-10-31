@@ -1,6 +1,6 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![License](https://img.shields.io/github/license/pkaladeep/github-streak)
-![Stars](https://img.shields.io/github/stars/pkaladeep/github-streak?style=social)
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://python.org)
+[![License](https://img.shields.io/github/license/pkaladeep/github-streak)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/pkaladeep/github-streak?style=social)](https://github.com/pkaladeep/github-streak/stargazers)
 
 # GitHub Streak Tracker
 
